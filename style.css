@@ -1,0 +1,28 @@
+body{
+font-family: 'Jesefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orangered-color{
+    color: rgb(204, 59, 6);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 60%;
+}
+.explore-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
